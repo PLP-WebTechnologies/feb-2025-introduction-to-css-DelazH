@@ -1,0 +1,46 @@
+/* Element selector */
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+/* ID selector */
+#main-header {
+    color: #2c3e50;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Class selector */
+.content-box {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    max-width: 800px;
+}
+
+/* Image styling */
+.styled-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #3498db;
+    border-radius: 4px;
+}
+
+/* Different font for footer */
+.footer {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin-top: 30px;
+    color: #7f8c8d;
+}
